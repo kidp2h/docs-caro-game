@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdownloader=self.webpackChunkdownloader||[]).push([[970],{7978:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/docs-caro-game/blog/tags/hola","allTagsPath":"/docs-caro-game/blog/tags","count":1,"unlisted":false}')}}]);
