@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdownloader=self.webpackChunkdownloader||[]).push([[180],{2936:o=>{o.exports=JSON.parse('{"permalink":"/docs-caro-game/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

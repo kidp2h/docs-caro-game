@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcaro_game=self.webpackChunkcaro_game||[]).push([[722],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

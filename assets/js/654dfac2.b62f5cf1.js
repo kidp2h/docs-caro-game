@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcaro_game=self.webpackChunkcaro_game||[]).push([[224],{4380:e=>{e.exports=JSON.parse('{"permalink":"/docs-caro-game/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

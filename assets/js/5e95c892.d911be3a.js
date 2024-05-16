@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcaro_game=self.webpackChunkcaro_game||[]).push([[647],{7121:(e,r,a)=>{a.r(r),a.d(r,{default:()=>o});a(6540);var s=a(4164),c=a(1003),u=a(7559),n=a(2831),t=a(781),l=a(4848);function o(e){return(0,l.jsx)(c.e3,{className:(0,s.A)(u.G.wrapper.docsPages),children:(0,l.jsx)(t.A,{children:(0,n.v)(e.route.routes)})})}}}]);
